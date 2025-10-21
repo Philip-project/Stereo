@@ -36,9 +36,9 @@ const videos = [
 const cometCards = [
   {
     id: 1,
-    title: "Urban Stories",
+    title: "Amazing Grace",
     code: "#A1B2",
-    image: "https://images.unsplash.com/photo-1514565131-fce0801e5785?q=80&w=1287&auto=format&fit=crop",
+    image: "/Akshith.png",
   },
   {
     id: 2,
