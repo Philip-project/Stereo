@@ -9,9 +9,9 @@ import { CometCard } from "@/components/ui/comet-card"
 const videos = [
   {
     id: 1,
-    title: "City Lights",
-    description: "A moody nightscape montage.",
-    youtubeId: "6vYSvBa9B9M",
+    title: "Intro to Philip's Media",
+    description: "An Intro to Our Journey.",
+    youtubeId: "w98e21hV4_A",
   },
   {
     id: 2,
@@ -42,21 +42,21 @@ const cometCards = [
   },
   {
     id: 2,
-    title: "Mountain Peak",
+    title: "Her Journey Begins",
     code: "#C3D4",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1287&auto=format&fit=crop",
+    image: "/Akshitha.png",
   },
   {
     id: 3,
     title: "Ocean Waves",
     code: "#E5F6",
-    image: "https://images.unsplash.com/photo-1505142468610-359e7d316be0?q=80&w=1287&auto=format&fit=crop",
+    image: "/Akshitha1.png"
   },
   {
     id: 4,
     title: "Desert Dunes",
     code: "#G7H8",
-    image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?q=80&w=1287&auto=format&fit=crop",
+    image: "/Akshitha2.png"
   },
   {
     id: 5,
